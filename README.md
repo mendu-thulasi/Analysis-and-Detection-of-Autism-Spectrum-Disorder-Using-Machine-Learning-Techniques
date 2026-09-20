@@ -1,0 +1,2 @@
+# Analysis-and-Detection-of-Autism-Spectrum-Disorder-Using-Machine-Learning-Techniques
+A machine learning-based Autism Spectrum Disorder (ASD) screening system that analyzes questionnaire-based data and predicts the likelihood of ASD. The project implements data preprocessing, multiple classification algorithms, performance evaluation, and a Tkinter-based GUI for interactive prediction and visualization.
